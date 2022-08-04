@@ -1,7 +1,7 @@
 # Cat Face Images Generate
  Generate cat face images using DCGAN.
 
-## train
+## Train
 You need to download the dataset from this [link](https://github.com/fferlito/Cat-faces-dataset). Unzip `/dataset-part1`, `/dataset-part2`, `dataset-part3` and put these three dataset in folder `/cat_dataset` (now it is empty).
 
 Then run
